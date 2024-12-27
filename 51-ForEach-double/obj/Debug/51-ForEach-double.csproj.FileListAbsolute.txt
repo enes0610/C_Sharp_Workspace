@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\51-ForEach-double\bin\Debug\51-ForEach-double.exe.config
+C:\Users\eneso\source\repos\51-ForEach-double\bin\Debug\51-ForEach-double.exe
+C:\Users\eneso\source\repos\51-ForEach-double\bin\Debug\51-ForEach-double.pdb
+C:\Users\eneso\source\repos\51-ForEach-double\obj\Debug\51-ForEach-double.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\51-ForEach-double\obj\Debug\51-ForEach-double.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\51-ForEach-double\obj\Debug\51-ForEach-double.exe
+C:\Users\eneso\source\repos\51-ForEach-double\obj\Debug\51-ForEach-double.pdb

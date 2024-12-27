@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\28-Beden-Kitle-Endeksi-Projesi\bin\Debug\28-Beden-Kitle-Endeksi-Projesi.exe.config
+C:\Users\eneso\source\repos\28-Beden-Kitle-Endeksi-Projesi\bin\Debug\28-Beden-Kitle-Endeksi-Projesi.exe
+C:\Users\eneso\source\repos\28-Beden-Kitle-Endeksi-Projesi\bin\Debug\28-Beden-Kitle-Endeksi-Projesi.pdb
+C:\Users\eneso\source\repos\28-Beden-Kitle-Endeksi-Projesi\obj\Debug\28-Beden-Kitle-Endeksi-Projesi.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\28-Beden-Kitle-Endeksi-Projesi\obj\Debug\28-Beden-Kitle-Endeksi-Projesi.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\28-Beden-Kitle-Endeksi-Projesi\obj\Debug\28-Beden-Kitle-Endeksi-Projesi.exe
+C:\Users\eneso\source\repos\28-Beden-Kitle-Endeksi-Projesi\obj\Debug\28-Beden-Kitle-Endeksi-Projesi.pdb

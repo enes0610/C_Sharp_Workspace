@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\12-Cıkartma-İşlemi\bin\Debug\12-Cıkartma-İşlemi.exe.config
+C:\Users\eneso\source\repos\12-Cıkartma-İşlemi\bin\Debug\12-Cıkartma-İşlemi.exe
+C:\Users\eneso\source\repos\12-Cıkartma-İşlemi\bin\Debug\12-Cıkartma-İşlemi.pdb
+C:\Users\eneso\source\repos\12-Cıkartma-İşlemi\obj\Debug\12-Cıkartma-İşlemi.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\12-Cıkartma-İşlemi\obj\Debug\12-Cıkartma-İşlemi.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\12-Cıkartma-İşlemi\obj\Debug\12-Cıkartma-İşlemi.exe
+C:\Users\eneso\source\repos\12-Cıkartma-İşlemi\obj\Debug\12-Cıkartma-İşlemi.pdb

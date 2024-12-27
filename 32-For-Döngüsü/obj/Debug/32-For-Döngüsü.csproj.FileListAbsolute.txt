@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\32-For-Döngüsü\bin\Debug\32-For-Döngüsü.exe.config
+C:\Users\eneso\source\repos\32-For-Döngüsü\bin\Debug\32-For-Döngüsü.exe
+C:\Users\eneso\source\repos\32-For-Döngüsü\bin\Debug\32-For-Döngüsü.pdb
+C:\Users\eneso\source\repos\32-For-Döngüsü\obj\Debug\32-For-Döngüsü.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\32-For-Döngüsü\obj\Debug\32-For-Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\32-For-Döngüsü\obj\Debug\32-For-Döngüsü.exe
+C:\Users\eneso\source\repos\32-For-Döngüsü\obj\Debug\32-For-Döngüsü.pdb

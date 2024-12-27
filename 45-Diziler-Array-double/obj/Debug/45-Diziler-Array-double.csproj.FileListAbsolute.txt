@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\45-Diziler-Array-double\bin\Debug\45-Diziler-Array-double.exe.config
+C:\Users\eneso\source\repos\45-Diziler-Array-double\bin\Debug\45-Diziler-Array-double.exe
+C:\Users\eneso\source\repos\45-Diziler-Array-double\bin\Debug\45-Diziler-Array-double.pdb
+C:\Users\eneso\source\repos\45-Diziler-Array-double\obj\Debug\45-Diziler-Array-double.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\45-Diziler-Array-double\obj\Debug\45-Diziler-Array-double.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\45-Diziler-Array-double\obj\Debug\45-Diziler-Array-double.exe
+C:\Users\eneso\source\repos\45-Diziler-Array-double\obj\Debug\45-Diziler-Array-double.pdb

@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\46-Diziler-Array-char\bin\Debug\46-Diziler-Array-char.exe.config
+C:\Users\eneso\source\repos\46-Diziler-Array-char\bin\Debug\46-Diziler-Array-char.exe
+C:\Users\eneso\source\repos\46-Diziler-Array-char\bin\Debug\46-Diziler-Array-char.pdb
+C:\Users\eneso\source\repos\46-Diziler-Array-char\obj\Debug\46-Diziler-Array-char.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\46-Diziler-Array-char\obj\Debug\46-Diziler-Array-char.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\46-Diziler-Array-char\obj\Debug\46-Diziler-Array-char.exe
+C:\Users\eneso\source\repos\46-Diziler-Array-char\obj\Debug\46-Diziler-Array-char.pdb

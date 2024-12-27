@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\82-Generic-ArrayList-İnt\bin\Debug\82-Generic-ArrayList-İnt.exe.config
+C:\Users\eneso\source\repos\82-Generic-ArrayList-İnt\bin\Debug\82-Generic-ArrayList-İnt.exe
+C:\Users\eneso\source\repos\82-Generic-ArrayList-İnt\bin\Debug\82-Generic-ArrayList-İnt.pdb
+C:\Users\eneso\source\repos\82-Generic-ArrayList-İnt\obj\Debug\82-Generic-ArrayList.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\82-Generic-ArrayList-İnt\obj\Debug\82-Generic-ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\82-Generic-ArrayList-İnt\obj\Debug\82-Generic-ArrayList-İnt.exe
+C:\Users\eneso\source\repos\82-Generic-ArrayList-İnt\obj\Debug\82-Generic-ArrayList-İnt.pdb

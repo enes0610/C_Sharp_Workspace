@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\35-Sonsuz-Döngü\bin\Debug\35-Sonsuz-Döngü.exe.config
+C:\Users\eneso\source\repos\35-Sonsuz-Döngü\bin\Debug\35-Sonsuz-Döngü.exe
+C:\Users\eneso\source\repos\35-Sonsuz-Döngü\bin\Debug\35-Sonsuz-Döngü.pdb
+C:\Users\eneso\source\repos\35-Sonsuz-Döngü\obj\Debug\35-Sonsuz-Döngü.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\35-Sonsuz-Döngü\obj\Debug\35-Sonsuz-Döngü.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\35-Sonsuz-Döngü\obj\Debug\35-Sonsuz-Döngü.exe
+C:\Users\eneso\source\repos\35-Sonsuz-Döngü\obj\Debug\35-Sonsuz-Döngü.pdb

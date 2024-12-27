@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\25-Değer-Alma\bin\Debug\25-Değer-Alma.exe.config
+C:\Users\eneso\source\repos\25-Değer-Alma\bin\Debug\25-Değer-Alma.exe
+C:\Users\eneso\source\repos\25-Değer-Alma\bin\Debug\25-Değer-Alma.pdb
+C:\Users\eneso\source\repos\25-Değer-Alma\obj\Debug\25-Değer-Alma.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\25-Değer-Alma\obj\Debug\25-Değer-Alma.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\25-Değer-Alma\obj\Debug\25-Değer-Alma.exe
+C:\Users\eneso\source\repos\25-Değer-Alma\obj\Debug\25-Değer-Alma.pdb

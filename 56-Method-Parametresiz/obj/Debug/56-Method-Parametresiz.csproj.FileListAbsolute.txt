@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\56-Method-Parametresiz\bin\Debug\56-Method-Parametresiz.exe.config
+C:\Users\eneso\source\repos\56-Method-Parametresiz\bin\Debug\56-Method-Parametresiz.exe
+C:\Users\eneso\source\repos\56-Method-Parametresiz\bin\Debug\56-Method-Parametresiz.pdb
+C:\Users\eneso\source\repos\56-Method-Parametresiz\obj\Debug\56-Method-Parametresiz.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\56-Method-Parametresiz\obj\Debug\56-Method-Parametresiz.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\56-Method-Parametresiz\obj\Debug\56-Method-Parametresiz.exe
+C:\Users\eneso\source\repos\56-Method-Parametresiz\obj\Debug\56-Method-Parametresiz.pdb

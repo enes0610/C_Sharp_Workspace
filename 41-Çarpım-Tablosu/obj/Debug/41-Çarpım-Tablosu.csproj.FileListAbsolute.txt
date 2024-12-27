@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\41-Çarpım-Tablosu\bin\Debug\41-Çarpım-Tablosu.exe.config
+C:\Users\eneso\source\repos\41-Çarpım-Tablosu\bin\Debug\41-Çarpım-Tablosu.exe
+C:\Users\eneso\source\repos\41-Çarpım-Tablosu\bin\Debug\41-Çarpım-Tablosu.pdb
+C:\Users\eneso\source\repos\41-Çarpım-Tablosu\obj\Debug\41-Çarpım-Tablosu.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\41-Çarpım-Tablosu\obj\Debug\41-Çarpım-Tablosu.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\41-Çarpım-Tablosu\obj\Debug\41-Çarpım-Tablosu.exe
+C:\Users\eneso\source\repos\41-Çarpım-Tablosu\obj\Debug\41-Çarpım-Tablosu.pdb

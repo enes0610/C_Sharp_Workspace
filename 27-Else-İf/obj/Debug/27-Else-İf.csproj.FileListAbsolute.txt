@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\27-Else-İf\bin\Debug\27-Else-İf.exe.config
+C:\Users\eneso\source\repos\27-Else-İf\bin\Debug\27-Else-İf.exe
+C:\Users\eneso\source\repos\27-Else-İf\bin\Debug\27-Else-İf.pdb
+C:\Users\eneso\source\repos\27-Else-İf\obj\Debug\27-Else-İf.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\27-Else-İf\obj\Debug\27-Else-İf.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\27-Else-İf\obj\Debug\27-Else-İf.exe
+C:\Users\eneso\source\repos\27-Else-İf\obj\Debug\27-Else-İf.pdb

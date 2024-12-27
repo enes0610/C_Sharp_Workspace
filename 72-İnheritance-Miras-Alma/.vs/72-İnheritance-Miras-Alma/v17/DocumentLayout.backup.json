@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eneso\\source\\repos\\72-\u0130nheritance-Miras-Alma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEEE803-ACDD-4023-BD18-F997F8BB1660}|72-\u0130nheritance-Miras-Alma.csproj|c:\\users\\eneso\\source\\repos\\72-\u0130nheritance-miras-alma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEEE803-ACDD-4023-BD18-F997F8BB1660}|72-\u0130nheritance-Miras-Alma.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEEE803-ACDD-4023-BD18-F997F8BB1660}|72-\u0130nheritance-Miras-Alma.csproj|c:\\users\\eneso\\source\\repos\\72-\u0130nheritance-miras-alma\\hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEEE803-ACDD-4023-BD18-F997F8BB1660}|72-\u0130nheritance-Miras-Alma.csproj|solutionrelative:hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEEE803-ACDD-4023-BD18-F997F8BB1660}|72-\u0130nheritance-Miras-Alma.csproj|c:\\users\\eneso\\source\\repos\\72-\u0130nheritance-miras-alma\\kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEEE803-ACDD-4023-BD18-F997F8BB1660}|72-\u0130nheritance-Miras-Alma.csproj|solutionrelative:kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kedi.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\72-\u0130nheritance-Miras-Alma\\Kedi.cs",
+              "RelativeDocumentMoniker": "Kedi.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\72-\u0130nheritance-Miras-Alma\\Kedi.cs",
+              "RelativeToolTip": "Kedi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:37:49.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hayvan.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\72-\u0130nheritance-Miras-Alma\\Hayvan.cs",
+              "RelativeDocumentMoniker": "Hayvan.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\72-\u0130nheritance-Miras-Alma\\Hayvan.cs",
+              "RelativeToolTip": "Hayvan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:32:53.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\72-\u0130nheritance-Miras-Alma\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\72-\u0130nheritance-Miras-Alma\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:31:46.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\69-Static-Değişken\bin\Debug\69-Static-Değişken.exe.config
+C:\Users\eneso\source\repos\69-Static-Değişken\bin\Debug\69-Static-Değişken.exe
+C:\Users\eneso\source\repos\69-Static-Değişken\bin\Debug\69-Static-Değişken.pdb
+C:\Users\eneso\source\repos\69-Static-Değişken\obj\Debug\69-Static-Değişken.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\69-Static-Değişken\obj\Debug\69-Static-Değişken.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\69-Static-Değişken\obj\Debug\69-Static-Değişken.exe
+C:\Users\eneso\source\repos\69-Static-Değişken\obj\Debug\69-Static-Değişken.pdb

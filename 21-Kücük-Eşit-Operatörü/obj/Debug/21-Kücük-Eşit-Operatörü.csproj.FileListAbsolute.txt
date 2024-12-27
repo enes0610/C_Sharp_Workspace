@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\21-Kücük-Eşit-Operatörü\bin\Debug\21-Kücük-Eşit-Operatörü.exe.config
+C:\Users\eneso\source\repos\21-Kücük-Eşit-Operatörü\bin\Debug\21-Kücük-Eşit-Operatörü.exe
+C:\Users\eneso\source\repos\21-Kücük-Eşit-Operatörü\bin\Debug\21-Kücük-Eşit-Operatörü.pdb
+C:\Users\eneso\source\repos\21-Kücük-Eşit-Operatörü\obj\Debug\21-Kücük-Eşit-Operatörü.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\21-Kücük-Eşit-Operatörü\obj\Debug\21-Kücük-Eşit-Operatörü.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\21-Kücük-Eşit-Operatörü\obj\Debug\21-Kücük-Eşit-Operatörü.exe
+C:\Users\eneso\source\repos\21-Kücük-Eşit-Operatörü\obj\Debug\21-Kücük-Eşit-Operatörü.pdb

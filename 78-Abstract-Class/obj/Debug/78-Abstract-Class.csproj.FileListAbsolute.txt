@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\78-Abstract-Class\bin\Debug\78-Abstract-Class.exe.config
+C:\Users\eneso\source\repos\78-Abstract-Class\bin\Debug\78-Abstract-Class.exe
+C:\Users\eneso\source\repos\78-Abstract-Class\bin\Debug\78-Abstract-Class.pdb
+C:\Users\eneso\source\repos\78-Abstract-Class\obj\Debug\78-Abstract-Class.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\78-Abstract-Class\obj\Debug\78-Abstract-Class.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\78-Abstract-Class\obj\Debug\78-Abstract-Class.exe
+C:\Users\eneso\source\repos\78-Abstract-Class\obj\Debug\78-Abstract-Class.pdb

@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\79-Abstract-Projesi\bin\Debug\79-Abstract-Projesi.exe.config
+C:\Users\eneso\source\repos\79-Abstract-Projesi\bin\Debug\79-Abstract-Projesi.exe
+C:\Users\eneso\source\repos\79-Abstract-Projesi\bin\Debug\79-Abstract-Projesi.pdb
+C:\Users\eneso\source\repos\79-Abstract-Projesi\obj\Debug\79-Abstract-Projesi.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\79-Abstract-Projesi\obj\Debug\79-Abstract-Projesi.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\79-Abstract-Projesi\obj\Debug\79-Abstract-Projesi.exe
+C:\Users\eneso\source\repos\79-Abstract-Projesi\obj\Debug\79-Abstract-Projesi.pdb

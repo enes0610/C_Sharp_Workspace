@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\15-Mod-Alma-İşlemi\bin\Debug\15-Mod-Alma-İşlemi.exe.config
+C:\Users\eneso\source\repos\15-Mod-Alma-İşlemi\bin\Debug\15-Mod-Alma-İşlemi.exe
+C:\Users\eneso\source\repos\15-Mod-Alma-İşlemi\bin\Debug\15-Mod-Alma-İşlemi.pdb
+C:\Users\eneso\source\repos\15-Mod-Alma-İşlemi\obj\Debug\15-Mod-Alma-İşlemi.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\15-Mod-Alma-İşlemi\obj\Debug\15-Mod-Alma-İşlemi.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\15-Mod-Alma-İşlemi\obj\Debug\15-Mod-Alma-İşlemi.exe
+C:\Users\eneso\source\repos\15-Mod-Alma-İşlemi\obj\Debug\15-Mod-Alma-İşlemi.pdb

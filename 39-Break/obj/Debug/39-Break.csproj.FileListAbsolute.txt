@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\39-Break\bin\Debug\39-Break.exe.config
+C:\Users\eneso\source\repos\39-Break\bin\Debug\39-Break.exe
+C:\Users\eneso\source\repos\39-Break\bin\Debug\39-Break.pdb
+C:\Users\eneso\source\repos\39-Break\obj\Debug\39-Break.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\39-Break\obj\Debug\39-Break.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\39-Break\obj\Debug\39-Break.exe
+C:\Users\eneso\source\repos\39-Break\obj\Debug\39-Break.pdb

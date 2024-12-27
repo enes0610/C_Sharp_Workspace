@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\17-Eşit-Değil-Operatörü\bin\Debug\17-Eşit-Değil-Operatörü.exe.config
+C:\Users\eneso\source\repos\17-Eşit-Değil-Operatörü\bin\Debug\17-Eşit-Değil-Operatörü.exe
+C:\Users\eneso\source\repos\17-Eşit-Değil-Operatörü\bin\Debug\17-Eşit-Değil-Operatörü.pdb
+C:\Users\eneso\source\repos\17-Eşit-Değil-Operatörü\obj\Debug\17-Eşit-Değil-Operatörü.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\17-Eşit-Değil-Operatörü\obj\Debug\17-Eşit-Değil-Operatörü.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\17-Eşit-Değil-Operatörü\obj\Debug\17-Eşit-Değil-Operatörü.exe
+C:\Users\eneso\source\repos\17-Eşit-Değil-Operatörü\obj\Debug\17-Eşit-Değil-Operatörü.pdb

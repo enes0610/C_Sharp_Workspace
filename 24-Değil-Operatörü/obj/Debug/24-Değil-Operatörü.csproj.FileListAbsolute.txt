@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\24-Değil-Operatörü\bin\Debug\24-Değil-Operatörü.exe.config
+C:\Users\eneso\source\repos\24-Değil-Operatörü\bin\Debug\24-Değil-Operatörü.exe
+C:\Users\eneso\source\repos\24-Değil-Operatörü\bin\Debug\24-Değil-Operatörü.pdb
+C:\Users\eneso\source\repos\24-Değil-Operatörü\obj\Debug\24-Değil-Operatörü.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\24-Değil-Operatörü\obj\Debug\24-Değil-Operatörü.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\24-Değil-Operatörü\obj\Debug\24-Değil-Operatörü.exe
+C:\Users\eneso\source\repos\24-Değil-Operatörü\obj\Debug\24-Değil-Operatörü.pdb

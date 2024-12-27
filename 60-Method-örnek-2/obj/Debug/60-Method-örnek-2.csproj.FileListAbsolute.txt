@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\60-Method-örnek-2\bin\Debug\60-Method-örnek-2.exe.config
+C:\Users\eneso\source\repos\60-Method-örnek-2\bin\Debug\60-Method-örnek-2.exe
+C:\Users\eneso\source\repos\60-Method-örnek-2\bin\Debug\60-Method-örnek-2.pdb
+C:\Users\eneso\source\repos\60-Method-örnek-2\obj\Debug\60-Method-örnek-2.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\60-Method-örnek-2\obj\Debug\60-Method-örnek-2.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\60-Method-örnek-2\obj\Debug\60-Method-örnek-2.exe
+C:\Users\eneso\source\repos\60-Method-örnek-2\obj\Debug\60-Method-örnek-2.pdb

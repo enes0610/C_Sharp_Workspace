@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\72-İnheritance-Miras-Alma\bin\Debug\72-İnheritance-Miras-Alma.exe.config
+C:\Users\eneso\source\repos\72-İnheritance-Miras-Alma\bin\Debug\72-İnheritance-Miras-Alma.exe
+C:\Users\eneso\source\repos\72-İnheritance-Miras-Alma\bin\Debug\72-İnheritance-Miras-Alma.pdb
+C:\Users\eneso\source\repos\72-İnheritance-Miras-Alma\obj\Debug\72-İnheritance-Miras-Alma.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\72-İnheritance-Miras-Alma\obj\Debug\72-İnheritance-Miras-Alma.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\72-İnheritance-Miras-Alma\obj\Debug\72-İnheritance-Miras-Alma.exe
+C:\Users\eneso\source\repos\72-İnheritance-Miras-Alma\obj\Debug\72-İnheritance-Miras-Alma.pdb

@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\70-Static-Yapıcı-Method\obj\Debug\70-Static-Yapıcı-Method.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\70-Static-Yapıcı-Method\obj\Debug\70-Static-Yapıcı-Method.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\70-Static-Yapıcı-Method\bin\Debug\70-Static-Yapıcı-Method.exe.config
+C:\Users\eneso\source\repos\70-Static-Yapıcı-Method\bin\Debug\70-Static-Yapıcı-Method.exe
+C:\Users\eneso\source\repos\70-Static-Yapıcı-Method\bin\Debug\70-Static-Yapıcı-Method.pdb
+C:\Users\eneso\source\repos\70-Static-Yapıcı-Method\obj\Debug\70-Static-Yapıcı-Method.exe
+C:\Users\eneso\source\repos\70-Static-Yapıcı-Method\obj\Debug\70-Static-Yapıcı-Method.pdb

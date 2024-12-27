@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\11-Toplama-İşlemi\bin\Debug\11-Toplama-İşlemi.exe.config
+C:\Users\eneso\source\repos\11-Toplama-İşlemi\bin\Debug\11-Toplama-İşlemi.exe
+C:\Users\eneso\source\repos\11-Toplama-İşlemi\bin\Debug\11-Toplama-İşlemi.pdb
+C:\Users\eneso\source\repos\11-Toplama-İşlemi\obj\Debug\11-Toplama-İşlemi.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\11-Toplama-İşlemi\obj\Debug\11-Toplama-İşlemi.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\11-Toplama-İşlemi\obj\Debug\11-Toplama-İşlemi.exe
+C:\Users\eneso\source\repos\11-Toplama-İşlemi\obj\Debug\11-Toplama-İşlemi.pdb

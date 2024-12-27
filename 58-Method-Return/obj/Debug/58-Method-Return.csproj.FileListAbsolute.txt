@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\58-Method-Return\bin\Debug\58-Method-Return.exe.config
+C:\Users\eneso\source\repos\58-Method-Return\bin\Debug\58-Method-Return.exe
+C:\Users\eneso\source\repos\58-Method-Return\bin\Debug\58-Method-Return.pdb
+C:\Users\eneso\source\repos\58-Method-Return\obj\Debug\58-Method-Return.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\58-Method-Return\obj\Debug\58-Method-Return.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\58-Method-Return\obj\Debug\58-Method-Return.exe
+C:\Users\eneso\source\repos\58-Method-Return\obj\Debug\58-Method-Return.pdb

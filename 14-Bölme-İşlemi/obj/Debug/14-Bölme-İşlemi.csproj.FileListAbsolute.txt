@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\14-Bölme-İşlemi\bin\Debug\14-Bölme-İşlemi.exe.config
+C:\Users\eneso\source\repos\14-Bölme-İşlemi\bin\Debug\14-Bölme-İşlemi.exe
+C:\Users\eneso\source\repos\14-Bölme-İşlemi\bin\Debug\14-Bölme-İşlemi.pdb
+C:\Users\eneso\source\repos\14-Bölme-İşlemi\obj\Debug\14-Bölme-İşlemi.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\14-Bölme-İşlemi\obj\Debug\14-Bölme-İşlemi.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\14-Bölme-İşlemi\obj\Debug\14-Bölme-İşlemi.exe
+C:\Users\eneso\source\repos\14-Bölme-İşlemi\obj\Debug\14-Bölme-İşlemi.pdb

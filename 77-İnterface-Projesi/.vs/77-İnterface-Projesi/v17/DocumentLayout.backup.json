@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eneso\\source\\repos\\77-\u0130nterface-Projesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D81AA08E-3431-4375-A48F-25C177DA3BFE}|77-\u0130nterface-Projesi.csproj|c:\\users\\eneso\\source\\repos\\77-\u0130nterface-projesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81AA08E-3431-4375-A48F-25C177DA3BFE}|77-\u0130nterface-Projesi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81AA08E-3431-4375-A48F-25C177DA3BFE}|77-\u0130nterface-Projesi.csproj|c:\\users\\eneso\\source\\repos\\77-\u0130nterface-projesi\\hibritaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81AA08E-3431-4375-A48F-25C177DA3BFE}|77-\u0130nterface-Projesi.csproj|solutionrelative:hibritaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81AA08E-3431-4375-A48F-25C177DA3BFE}|77-\u0130nterface-Projesi.csproj|c:\\users\\eneso\\source\\repos\\77-\u0130nterface-projesi\\elektrikliaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81AA08E-3431-4375-A48F-25C177DA3BFE}|77-\u0130nterface-Projesi.csproj|solutionrelative:elektrikliaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81AA08E-3431-4375-A48F-25C177DA3BFE}|77-\u0130nterface-Projesi.csproj|c:\\users\\eneso\\source\\repos\\77-\u0130nterface-projesi\\benzinliaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81AA08E-3431-4375-A48F-25C177DA3BFE}|77-\u0130nterface-Projesi.csproj|solutionrelative:benzinliaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81AA08E-3431-4375-A48F-25C177DA3BFE}|77-\u0130nterface-Projesi.csproj|c:\\users\\eneso\\source\\repos\\77-\u0130nterface-projesi\\iaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81AA08E-3431-4375-A48F-25C177DA3BFE}|77-\u0130nterface-Projesi.csproj|solutionrelative:iaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAraba.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\77-\u0130nterface-Projesi\\IAraba.cs",
+              "RelativeDocumentMoniker": "IAraba.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\77-\u0130nterface-Projesi\\IAraba.cs",
+              "RelativeToolTip": "IAraba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:28:49.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BenzinliAraba.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\77-\u0130nterface-Projesi\\BenzinliAraba.cs",
+              "RelativeDocumentMoniker": "BenzinliAraba.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\77-\u0130nterface-Projesi\\BenzinliAraba.cs",
+              "RelativeToolTip": "BenzinliAraba.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:57:09.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElektrikliAraba.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\77-\u0130nterface-Projesi\\ElektrikliAraba.cs",
+              "RelativeDocumentMoniker": "ElektrikliAraba.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\77-\u0130nterface-Projesi\\ElektrikliAraba.cs",
+              "RelativeToolTip": "ElektrikliAraba.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:56:33.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HibritAraba.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\77-\u0130nterface-Projesi\\HibritAraba.cs",
+              "RelativeDocumentMoniker": "HibritAraba.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\77-\u0130nterface-Projesi\\HibritAraba.cs",
+              "RelativeToolTip": "HibritAraba.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:11:52.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\77-\u0130nterface-Projesi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\77-\u0130nterface-Projesi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:55:25.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

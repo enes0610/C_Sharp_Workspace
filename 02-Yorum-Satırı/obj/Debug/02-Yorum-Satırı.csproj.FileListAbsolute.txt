@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\02-Yorum-Satırı\bin\Debug\02-Yorum-Satırı.exe.config
+C:\Users\eneso\source\repos\02-Yorum-Satırı\bin\Debug\02-Yorum-Satırı.exe
+C:\Users\eneso\source\repos\02-Yorum-Satırı\bin\Debug\02-Yorum-Satırı.pdb
+C:\Users\eneso\source\repos\02-Yorum-Satırı\obj\Debug\02-Yorum-Satırı.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\02-Yorum-Satırı\obj\Debug\02-Yorum-Satırı.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\02-Yorum-Satırı\obj\Debug\02-Yorum-Satırı.exe
+C:\Users\eneso\source\repos\02-Yorum-Satırı\obj\Debug\02-Yorum-Satırı.pdb

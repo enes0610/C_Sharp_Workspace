@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\09-Double\bin\Debug\09-Double.exe.config
+C:\Users\eneso\source\repos\09-Double\bin\Debug\09-Double.exe
+C:\Users\eneso\source\repos\09-Double\bin\Debug\09-Double.pdb
+C:\Users\eneso\source\repos\09-Double\obj\Debug\09-Double.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\09-Double\obj\Debug\09-Double.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\09-Double\obj\Debug\09-Double.exe
+C:\Users\eneso\source\repos\09-Double\obj\Debug\09-Double.pdb

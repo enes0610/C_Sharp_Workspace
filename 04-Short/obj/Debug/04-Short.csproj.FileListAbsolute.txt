@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\04-Short\bin\Debug\04-Short.exe.config
+C:\Users\eneso\source\repos\04-Short\bin\Debug\04-Short.exe
+C:\Users\eneso\source\repos\04-Short\bin\Debug\04-Short.pdb
+C:\Users\eneso\source\repos\04-Short\obj\Debug\04-Short.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\04-Short\obj\Debug\04-Short.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\04-Short\obj\Debug\04-Short.exe
+C:\Users\eneso\source\repos\04-Short\obj\Debug\04-Short.pdb

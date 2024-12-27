@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\62-OOP-Public-Private\bin\Debug\62-OOP-Public-Private.exe.config
+C:\Users\eneso\source\repos\62-OOP-Public-Private\bin\Debug\62-OOP-Public-Private.exe
+C:\Users\eneso\source\repos\62-OOP-Public-Private\bin\Debug\62-OOP-Public-Private.pdb
+C:\Users\eneso\source\repos\62-OOP-Public-Private\obj\Debug\62-OOP-Public-Private.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\62-OOP-Public-Private\obj\Debug\62-OOP-Public-Private.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\62-OOP-Public-Private\obj\Debug\62-OOP-Public-Private.exe
+C:\Users\eneso\source\repos\62-OOP-Public-Private\obj\Debug\62-OOP-Public-Private.pdb

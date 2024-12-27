@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\77-İnterface-Projesi\bin\Debug\77-İnterface-Projesi.exe.config
+C:\Users\eneso\source\repos\77-İnterface-Projesi\bin\Debug\77-İnterface-Projesi.exe
+C:\Users\eneso\source\repos\77-İnterface-Projesi\bin\Debug\77-İnterface-Projesi.pdb
+C:\Users\eneso\source\repos\77-İnterface-Projesi\obj\Debug\77-İnterface-Projesi.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\77-İnterface-Projesi\obj\Debug\77-İnterface-Projesi.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\77-İnterface-Projesi\obj\Debug\77-İnterface-Projesi.exe
+C:\Users\eneso\source\repos\77-İnterface-Projesi\obj\Debug\77-İnterface-Projesi.pdb

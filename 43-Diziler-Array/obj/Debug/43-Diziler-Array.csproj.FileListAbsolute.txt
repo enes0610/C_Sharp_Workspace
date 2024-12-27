@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\43-Diziler-Array\bin\Debug\43-Diziler-Array.exe.config
+C:\Users\eneso\source\repos\43-Diziler-Array\bin\Debug\43-Diziler-Array.exe
+C:\Users\eneso\source\repos\43-Diziler-Array\bin\Debug\43-Diziler-Array.pdb
+C:\Users\eneso\source\repos\43-Diziler-Array\obj\Debug\43-Diziler-Array.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\43-Diziler-Array\obj\Debug\43-Diziler-Array.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\43-Diziler-Array\obj\Debug\43-Diziler-Array.exe
+C:\Users\eneso\source\repos\43-Diziler-Array\obj\Debug\43-Diziler-Array.pdb

@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\33-Nested-For-Döngüsü\obj\Debug\33-Nested-For-Döngüsü.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\33-Nested-For-Döngüsü\obj\Debug\33-Nested-For-Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\33-Nested-For-Döngüsü\bin\Debug\33-Nested-For-Döngüsü.exe.config
+C:\Users\eneso\source\repos\33-Nested-For-Döngüsü\bin\Debug\33-Nested-For-Döngüsü.exe
+C:\Users\eneso\source\repos\33-Nested-For-Döngüsü\bin\Debug\33-Nested-For-Döngüsü.pdb
+C:\Users\eneso\source\repos\33-Nested-For-Döngüsü\obj\Debug\33-Nested-For-Döngüsü.exe
+C:\Users\eneso\source\repos\33-Nested-For-Döngüsü\obj\Debug\33-Nested-For-Döngüsü.pdb

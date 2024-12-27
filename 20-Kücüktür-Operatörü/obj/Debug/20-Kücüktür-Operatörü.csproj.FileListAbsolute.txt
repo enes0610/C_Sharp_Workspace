@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\20-Kücüktür-Operatörü\bin\Debug\20-Kücüktür-Operatörü.exe.config
+C:\Users\eneso\source\repos\20-Kücüktür-Operatörü\bin\Debug\20-Kücüktür-Operatörü.exe
+C:\Users\eneso\source\repos\20-Kücüktür-Operatörü\bin\Debug\20-Kücüktür-Operatörü.pdb
+C:\Users\eneso\source\repos\20-Kücüktür-Operatörü\obj\Debug\20-Kücüktür-Operatörü.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\20-Kücüktür-Operatörü\obj\Debug\20-Kücüktür-Operatörü.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\20-Kücüktür-Operatörü\obj\Debug\20-Kücüktür-Operatörü.exe
+C:\Users\eneso\source\repos\20-Kücüktür-Operatörü\obj\Debug\20-Kücüktür-Operatörü.pdb

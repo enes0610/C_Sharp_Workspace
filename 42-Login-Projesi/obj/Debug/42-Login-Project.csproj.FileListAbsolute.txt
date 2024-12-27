@@ -1,0 +1,14 @@
+C:\Users\eneso\source\repos\42-Login-Project\bin\Debug\42-Login-Project.exe.config
+C:\Users\eneso\source\repos\42-Login-Project\bin\Debug\42-Login-Project.exe
+C:\Users\eneso\source\repos\42-Login-Project\bin\Debug\42-Login-Project.pdb
+C:\Users\eneso\source\repos\42-Login-Project\obj\Debug\42-Login-Project.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\42-Login-Project\obj\Debug\42-Login-Project.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\42-Login-Project\obj\Debug\42-Login-Project.exe
+C:\Users\eneso\source\repos\42-Login-Project\obj\Debug\42-Login-Project.pdb
+C:\Users\eneso\source\repos\42-Login-Projesi\bin\Debug\42-Login-Project.exe.config
+C:\Users\eneso\source\repos\42-Login-Projesi\bin\Debug\42-Login-Project.exe
+C:\Users\eneso\source\repos\42-Login-Projesi\bin\Debug\42-Login-Project.pdb
+C:\Users\eneso\source\repos\42-Login-Projesi\obj\Debug\42-Login-Project.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\42-Login-Projesi\obj\Debug\42-Login-Project.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\42-Login-Projesi\obj\Debug\42-Login-Project.exe
+C:\Users\eneso\source\repos\42-Login-Projesi\obj\Debug\42-Login-Project.pdb

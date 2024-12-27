@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\30-ATM-Projesi\bin\Debug\30-ATM-Projesi.exe.config
+C:\Users\eneso\source\repos\30-ATM-Projesi\bin\Debug\30-ATM-Projesi.exe
+C:\Users\eneso\source\repos\30-ATM-Projesi\bin\Debug\30-ATM-Projesi.pdb
+C:\Users\eneso\source\repos\30-ATM-Projesi\obj\Debug\30-ATM-Projesi.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\30-ATM-Projesi\obj\Debug\30-ATM-Projesi.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\30-ATM-Projesi\obj\Debug\30-ATM-Projesi.exe
+C:\Users\eneso\source\repos\30-ATM-Projesi\obj\Debug\30-ATM-Projesi.pdb

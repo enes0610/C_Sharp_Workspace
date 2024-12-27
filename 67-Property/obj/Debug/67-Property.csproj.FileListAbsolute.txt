@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\67-Property\bin\Debug\67-Property.exe.config
+C:\Users\eneso\source\repos\67-Property\bin\Debug\67-Property.exe
+C:\Users\eneso\source\repos\67-Property\bin\Debug\67-Property.pdb
+C:\Users\eneso\source\repos\67-Property\obj\Debug\67-Property.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\67-Property\obj\Debug\67-Property.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\67-Property\obj\Debug\67-Property.exe
+C:\Users\eneso\source\repos\67-Property\obj\Debug\67-Property.pdb

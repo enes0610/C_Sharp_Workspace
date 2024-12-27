@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\18-Büyüktür-Operatörü\bin\Debug\18-Büyüktür-Operatörü.exe.config
+C:\Users\eneso\source\repos\18-Büyüktür-Operatörü\bin\Debug\18-Büyüktür-Operatörü.exe
+C:\Users\eneso\source\repos\18-Büyüktür-Operatörü\bin\Debug\18-Büyüktür-Operatörü.pdb
+C:\Users\eneso\source\repos\18-Büyüktür-Operatörü\obj\Debug\18-Büyüktür-Operatörü.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\18-Büyüktür-Operatörü\obj\Debug\18-Büyüktür-Operatörü.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\18-Büyüktür-Operatörü\obj\Debug\18-Büyüktür-Operatörü.exe
+C:\Users\eneso\source\repos\18-Büyüktür-Operatörü\obj\Debug\18-Büyüktür-Operatörü.pdb

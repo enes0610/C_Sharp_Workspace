@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\53-ForEach-örnek\bin\Debug\53-ForEach-örnek.exe.config
+C:\Users\eneso\source\repos\53-ForEach-örnek\bin\Debug\53-ForEach-örnek.exe
+C:\Users\eneso\source\repos\53-ForEach-örnek\bin\Debug\53-ForEach-örnek.pdb
+C:\Users\eneso\source\repos\53-ForEach-örnek\obj\Debug\53-ForEach-örnek.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\53-ForEach-örnek\obj\Debug\53-ForEach-örnek.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\53-ForEach-örnek\obj\Debug\53-ForEach-örnek.exe
+C:\Users\eneso\source\repos\53-ForEach-örnek\obj\Debug\53-ForEach-örnek.pdb

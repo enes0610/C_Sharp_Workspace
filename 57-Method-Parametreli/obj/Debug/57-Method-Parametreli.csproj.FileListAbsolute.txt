@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\57-Method-Parametreli\bin\Debug\57-Method-Parametreli.exe.config
+C:\Users\eneso\source\repos\57-Method-Parametreli\bin\Debug\57-Method-Parametreli.exe
+C:\Users\eneso\source\repos\57-Method-Parametreli\bin\Debug\57-Method-Parametreli.pdb
+C:\Users\eneso\source\repos\57-Method-Parametreli\obj\Debug\57-Method-Parametreli.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\57-Method-Parametreli\obj\Debug\57-Method-Parametreli.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\57-Method-Parametreli\obj\Debug\57-Method-Parametreli.exe
+C:\Users\eneso\source\repos\57-Method-Parametreli\obj\Debug\57-Method-Parametreli.pdb

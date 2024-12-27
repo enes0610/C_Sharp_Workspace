@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eneso\\source\\repos\\61-Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07B2D073-B649-4242-B624-D77D67BEA30D}|61-Class.csproj|c:\\users\\eneso\\source\\repos\\61-class\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B2D073-B649-4242-B624-D77D67BEA30D}|61-Class.csproj|solutionrelative:araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\61-Class\\Araba.cs",
+              "RelativeDocumentMoniker": "Araba.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\61-Class\\Araba.cs",
+              "RelativeToolTip": "Araba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:12:39.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

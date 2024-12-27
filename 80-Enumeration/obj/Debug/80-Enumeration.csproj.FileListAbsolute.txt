@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\80-Enumeration\bin\Debug\80-Enumeration.exe.config
+C:\Users\eneso\source\repos\80-Enumeration\bin\Debug\80-Enumeration.exe
+C:\Users\eneso\source\repos\80-Enumeration\bin\Debug\80-Enumeration.pdb
+C:\Users\eneso\source\repos\80-Enumeration\obj\Debug\80-Enumeration.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\80-Enumeration\obj\Debug\80-Enumeration.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\80-Enumeration\obj\Debug\80-Enumeration.exe
+C:\Users\eneso\source\repos\80-Enumeration\obj\Debug\80-Enumeration.pdb

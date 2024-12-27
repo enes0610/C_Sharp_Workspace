@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\05-İnt\bin\Debug\05-İnt.exe.config
+C:\Users\eneso\source\repos\05-İnt\bin\Debug\05-İnt.exe
+C:\Users\eneso\source\repos\05-İnt\bin\Debug\05-İnt.pdb
+C:\Users\eneso\source\repos\05-İnt\obj\Debug\05-İnt.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\05-İnt\obj\Debug\05-İnt.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\05-İnt\obj\Debug\05-İnt.exe
+C:\Users\eneso\source\repos\05-İnt\obj\Debug\05-İnt.pdb

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eneso\\source\\repos\\81-Enumeration-Projesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{056729C7-A843-42D0-A03A-4252409530FE}|81-Enumeration-Projesi.csproj|c:\\users\\eneso\\source\\repos\\81-enumeration-projesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056729C7-A843-42D0-A03A-4252409530FE}|81-Enumeration-Projesi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056729C7-A843-42D0-A03A-4252409530FE}|81-Enumeration-Projesi.csproj|c:\\users\\eneso\\source\\repos\\81-enumeration-projesi\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056729C7-A843-42D0-A03A-4252409530FE}|81-Enumeration-Projesi.csproj|solutionrelative:kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056729C7-A843-42D0-A03A-4252409530FE}|81-Enumeration-Projesi.csproj|c:\\users\\eneso\\source\\repos\\81-enumeration-projesi\\cinsiyet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056729C7-A843-42D0-A03A-4252409530FE}|81-Enumeration-Projesi.csproj|solutionrelative:cinsiyet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cinsiyet.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\81-Enumeration-Projesi\\Cinsiyet.cs",
+              "RelativeDocumentMoniker": "Cinsiyet.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\81-Enumeration-Projesi\\Cinsiyet.cs",
+              "RelativeToolTip": "Cinsiyet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:36:03.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kisi.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\81-Enumeration-Projesi\\Kisi.cs",
+              "RelativeDocumentMoniker": "Kisi.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\81-Enumeration-Projesi\\Kisi.cs",
+              "RelativeToolTip": "Kisi.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:35:25.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\81-Enumeration-Projesi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\81-Enumeration-Projesi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:34:55.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

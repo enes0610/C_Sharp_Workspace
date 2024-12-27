@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\61-Class\bin\Debug\61-Class.exe.config
+C:\Users\eneso\source\repos\61-Class\bin\Debug\61-Class.exe
+C:\Users\eneso\source\repos\61-Class\bin\Debug\61-Class.pdb
+C:\Users\eneso\source\repos\61-Class\obj\Debug\61-Class.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\61-Class\obj\Debug\61-Class.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\61-Class\obj\Debug\61-Class.exe
+C:\Users\eneso\source\repos\61-Class\obj\Debug\61-Class.pdb

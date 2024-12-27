@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\03-Byte\bin\Debug\03-Byte.exe.config
+C:\Users\eneso\source\repos\03-Byte\bin\Debug\03-Byte.exe
+C:\Users\eneso\source\repos\03-Byte\bin\Debug\03-Byte.pdb
+C:\Users\eneso\source\repos\03-Byte\obj\Debug\03-Byte.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\03-Byte\obj\Debug\03-Byte.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\03-Byte\obj\Debug\03-Byte.exe
+C:\Users\eneso\source\repos\03-Byte\obj\Debug\03-Byte.pdb

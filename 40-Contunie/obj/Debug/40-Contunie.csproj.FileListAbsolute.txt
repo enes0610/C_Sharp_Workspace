@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\40-Contunie\bin\Debug\40-Contunie.exe.config
+C:\Users\eneso\source\repos\40-Contunie\bin\Debug\40-Contunie.exe
+C:\Users\eneso\source\repos\40-Contunie\bin\Debug\40-Contunie.pdb
+C:\Users\eneso\source\repos\40-Contunie\obj\Debug\40-Contunie.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\40-Contunie\obj\Debug\40-Contunie.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\40-Contunie\obj\Debug\40-Contunie.exe
+C:\Users\eneso\source\repos\40-Contunie\obj\Debug\40-Contunie.pdb

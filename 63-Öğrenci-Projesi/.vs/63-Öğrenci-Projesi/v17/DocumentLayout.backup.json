@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eneso\\source\\repos\\63-\u00D6\u011Frenci-Projesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15357E68-6959-4831-B316-28B2CDF97689}|63-\u00D6\u011Frenci-Projesi.csproj|c:\\users\\eneso\\source\\repos\\63-\u00F6\u011Frenci-projesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15357E68-6959-4831-B316-28B2CDF97689}|63-\u00D6\u011Frenci-Projesi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15357E68-6959-4831-B316-28B2CDF97689}|63-\u00D6\u011Frenci-Projesi.csproj|c:\\users\\eneso\\source\\repos\\63-\u00F6\u011Frenci-projesi\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15357E68-6959-4831-B316-28B2CDF97689}|63-\u00D6\u011Frenci-Projesi.csproj|solutionrelative:ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\63-\u00D6\u011Frenci-Projesi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\63-\u00D6\u011Frenci-Projesi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:47:03.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\63-\u00D6\u011Frenci-Projesi\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "Ogrenci.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\63-\u00D6\u011Frenci-Projesi\\Ogrenci.cs",
+              "RelativeToolTip": "Ogrenci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:48:15.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

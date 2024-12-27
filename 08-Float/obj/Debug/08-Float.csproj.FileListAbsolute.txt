@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\08-Float\bin\Debug\08-Float.exe.config
+C:\Users\eneso\source\repos\08-Float\bin\Debug\08-Float.exe
+C:\Users\eneso\source\repos\08-Float\bin\Debug\08-Float.pdb
+C:\Users\eneso\source\repos\08-Float\obj\Debug\08-Float.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\08-Float\obj\Debug\08-Float.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\08-Float\obj\Debug\08-Float.exe
+C:\Users\eneso\source\repos\08-Float\obj\Debug\08-Float.pdb

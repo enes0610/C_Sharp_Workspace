@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\47-Dizi-Array-örnek\bin\Debug\47-Dizi-Array-örnek.exe.config
+C:\Users\eneso\source\repos\47-Dizi-Array-örnek\bin\Debug\47-Dizi-Array-örnek.exe
+C:\Users\eneso\source\repos\47-Dizi-Array-örnek\bin\Debug\47-Dizi-Array-örnek.pdb
+C:\Users\eneso\source\repos\47-Dizi-Array-örnek\obj\Debug\47-Dizi-Array-örnek.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\47-Dizi-Array-örnek\obj\Debug\47-Dizi-Array-örnek.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\47-Dizi-Array-örnek\obj\Debug\47-Dizi-Array-örnek.exe
+C:\Users\eneso\source\repos\47-Dizi-Array-örnek\obj\Debug\47-Dizi-Array-örnek.pdb

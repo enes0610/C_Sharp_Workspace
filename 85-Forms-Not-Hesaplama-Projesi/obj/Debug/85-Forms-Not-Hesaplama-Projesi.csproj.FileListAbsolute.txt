@@ -1,0 +1,10 @@
+C:\Users\eneso\source\repos\85-Forms-Not-Hesaplama-Projesi\bin\Debug\85-Forms-Not-Hesaplama-Projesi.exe.config
+C:\Users\eneso\source\repos\85-Forms-Not-Hesaplama-Projesi\bin\Debug\85-Forms-Not-Hesaplama-Projesi.exe
+C:\Users\eneso\source\repos\85-Forms-Not-Hesaplama-Projesi\bin\Debug\85-Forms-Not-Hesaplama-Projesi.pdb
+C:\Users\eneso\source\repos\85-Forms-Not-Hesaplama-Projesi\obj\Debug\85-Forms-Not-Hesaplama-Projesi.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\85-Forms-Not-Hesaplama-Projesi\obj\Debug\_85_Forms_Not_Hesaplama_Projesi.Form1.resources
+C:\Users\eneso\source\repos\85-Forms-Not-Hesaplama-Projesi\obj\Debug\_85_Forms_Not_Hesaplama_Projesi.Properties.Resources.resources
+C:\Users\eneso\source\repos\85-Forms-Not-Hesaplama-Projesi\obj\Debug\85-Forms-Not-Hesaplama-Projesi.csproj.GenerateResource.cache
+C:\Users\eneso\source\repos\85-Forms-Not-Hesaplama-Projesi\obj\Debug\85-Forms-Not-Hesaplama-Projesi.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\85-Forms-Not-Hesaplama-Projesi\obj\Debug\85-Forms-Not-Hesaplama-Projesi.exe
+C:\Users\eneso\source\repos\85-Forms-Not-Hesaplama-Projesi\obj\Debug\85-Forms-Not-Hesaplama-Projesi.pdb

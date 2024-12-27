@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\68-Static-Method\bin\Debug\68-Static-Method.exe.config
+C:\Users\eneso\source\repos\68-Static-Method\bin\Debug\68-Static-Method.exe
+C:\Users\eneso\source\repos\68-Static-Method\bin\Debug\68-Static-Method.pdb
+C:\Users\eneso\source\repos\68-Static-Method\obj\Debug\68-Static-Method.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\68-Static-Method\obj\Debug\68-Static-Method.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\68-Static-Method\obj\Debug\68-Static-Method.exe
+C:\Users\eneso\source\repos\68-Static-Method\obj\Debug\68-Static-Method.pdb

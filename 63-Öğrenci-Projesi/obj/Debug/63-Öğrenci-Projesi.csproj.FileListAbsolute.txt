@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\63-Öğrenci-Projesi\bin\Debug\63-Öğrenci-Projesi.exe.config
+C:\Users\eneso\source\repos\63-Öğrenci-Projesi\bin\Debug\63-Öğrenci-Projesi.exe
+C:\Users\eneso\source\repos\63-Öğrenci-Projesi\bin\Debug\63-Öğrenci-Projesi.pdb
+C:\Users\eneso\source\repos\63-Öğrenci-Projesi\obj\Debug\63-Öğrenci-Projesi.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\63-Öğrenci-Projesi\obj\Debug\63-Öğrenci-Projesi.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\63-Öğrenci-Projesi\obj\Debug\63-Öğrenci-Projesi.exe
+C:\Users\eneso\source\repos\63-Öğrenci-Projesi\obj\Debug\63-Öğrenci-Projesi.pdb

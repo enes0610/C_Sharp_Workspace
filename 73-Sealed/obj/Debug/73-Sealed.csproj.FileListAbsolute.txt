@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\73-Sealed\bin\Debug\73-Sealed.exe.config
+C:\Users\eneso\source\repos\73-Sealed\bin\Debug\73-Sealed.exe
+C:\Users\eneso\source\repos\73-Sealed\bin\Debug\73-Sealed.pdb
+C:\Users\eneso\source\repos\73-Sealed\obj\Debug\73-Sealed.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\73-Sealed\obj\Debug\73-Sealed.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\73-Sealed\obj\Debug\73-Sealed.exe
+C:\Users\eneso\source\repos\73-Sealed\obj\Debug\73-Sealed.pdb

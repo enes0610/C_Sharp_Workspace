@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eneso\\source\\repos\\78-Abstract-Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31CAC895-07D1-44F8-931F-FB5DD557A068}|78-Abstract-Class.csproj|c:\\users\\eneso\\source\\repos\\78-abstract-class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CAC895-07D1-44F8-931F-FB5DD557A068}|78-Abstract-Class.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CAC895-07D1-44F8-931F-FB5DD557A068}|78-Abstract-Class.csproj|c:\\users\\eneso\\source\\repos\\78-abstract-class\\alts\u0131n\u0131f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CAC895-07D1-44F8-931F-FB5DD557A068}|78-Abstract-Class.csproj|solutionrelative:alts\u0131n\u0131f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CAC895-07D1-44F8-931F-FB5DD557A068}|78-Abstract-Class.csproj|c:\\users\\eneso\\source\\repos\\78-abstract-class\\temels\u0131n\u0131f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CAC895-07D1-44F8-931F-FB5DD557A068}|78-Abstract-Class.csproj|solutionrelative:temels\u0131n\u0131f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AltS\u0131n\u0131f.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\78-Abstract-Class\\AltS\u0131n\u0131f.cs",
+              "RelativeDocumentMoniker": "AltS\u0131n\u0131f.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\78-Abstract-Class\\AltS\u0131n\u0131f.cs",
+              "RelativeToolTip": "AltS\u0131n\u0131f.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:41:18.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemelS\u0131n\u0131f.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\78-Abstract-Class\\TemelS\u0131n\u0131f.cs",
+              "RelativeDocumentMoniker": "TemelS\u0131n\u0131f.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\78-Abstract-Class\\TemelS\u0131n\u0131f.cs",
+              "RelativeToolTip": "TemelS\u0131n\u0131f.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:37:58.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eneso\\source\\repos\\78-Abstract-Class\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\eneso\\source\\repos\\78-Abstract-Class\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:23:39.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

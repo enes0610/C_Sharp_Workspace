@@ -1,0 +1,14 @@
+C:\Users\eneso\source\repos\01-Hello-World\bin\Debug\01-Hello-World.exe.config
+C:\Users\eneso\source\repos\01-Hello-World\bin\Debug\01-Hello-World.exe
+C:\Users\eneso\source\repos\01-Hello-World\bin\Debug\01-Hello-World.pdb
+C:\Users\eneso\source\repos\01-Hello-World\obj\Debug\01-Hello-World.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\01-Hello-World\obj\Debug\01-Hello-World.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\01-Hello-World\obj\Debug\01-Hello-World.exe
+C:\Users\eneso\source\repos\01-Hello-World\obj\Debug\01-Hello-World.pdb
+C:\Users\eneso\source\repos\C-Sharp_Workspace\01-Hello-World\bin\Debug\01-Hello-World.exe.config
+C:\Users\eneso\source\repos\C-Sharp_Workspace\01-Hello-World\bin\Debug\01-Hello-World.exe
+C:\Users\eneso\source\repos\C-Sharp_Workspace\01-Hello-World\bin\Debug\01-Hello-World.pdb
+C:\Users\eneso\source\repos\C-Sharp_Workspace\01-Hello-World\obj\Debug\01-Hello-World.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\C-Sharp_Workspace\01-Hello-World\obj\Debug\01-Hello-World.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\C-Sharp_Workspace\01-Hello-World\obj\Debug\01-Hello-World.exe
+C:\Users\eneso\source\repos\C-Sharp_Workspace\01-Hello-World\obj\Debug\01-Hello-World.pdb

@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\10-Boolean\bin\Debug\10-Boolean.exe.config
+C:\Users\eneso\source\repos\10-Boolean\bin\Debug\10-Boolean.exe
+C:\Users\eneso\source\repos\10-Boolean\bin\Debug\10-Boolean.pdb
+C:\Users\eneso\source\repos\10-Boolean\obj\Debug\10-Boolean.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\10-Boolean\obj\Debug\10-Boolean.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\10-Boolean\obj\Debug\10-Boolean.exe
+C:\Users\eneso\source\repos\10-Boolean\obj\Debug\10-Boolean.pdb

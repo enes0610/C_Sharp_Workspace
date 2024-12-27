@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\64-Encapsulation-Getter-Setter\bin\Debug\64-Encapsulation-Getter-Setter.exe.config
+C:\Users\eneso\source\repos\64-Encapsulation-Getter-Setter\bin\Debug\64-Encapsulation-Getter-Setter.exe
+C:\Users\eneso\source\repos\64-Encapsulation-Getter-Setter\bin\Debug\64-Encapsulation-Getter-Setter.pdb
+C:\Users\eneso\source\repos\64-Encapsulation-Getter-Setter\obj\Debug\64-Encapsulation-Getter-Setter.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\64-Encapsulation-Getter-Setter\obj\Debug\64-Encapsulation-Getter-Setter.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\64-Encapsulation-Getter-Setter\obj\Debug\64-Encapsulation-Getter-Setter.exe
+C:\Users\eneso\source\repos\64-Encapsulation-Getter-Setter\obj\Debug\64-Encapsulation-Getter-Setter.pdb

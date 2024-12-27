@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\75-Polymorphsim\bin\Debug\75-Polymorphsim.exe.config
+C:\Users\eneso\source\repos\75-Polymorphsim\bin\Debug\75-Polymorphsim.exe
+C:\Users\eneso\source\repos\75-Polymorphsim\bin\Debug\75-Polymorphsim.pdb
+C:\Users\eneso\source\repos\75-Polymorphsim\obj\Debug\75-Polymorphsim.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\75-Polymorphsim\obj\Debug\75-Polymorphsim.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\75-Polymorphsim\obj\Debug\75-Polymorphsim.exe
+C:\Users\eneso\source\repos\75-Polymorphsim\obj\Debug\75-Polymorphsim.pdb

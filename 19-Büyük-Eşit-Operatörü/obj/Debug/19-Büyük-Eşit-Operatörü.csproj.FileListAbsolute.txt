@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\19-Büyük-Eşit-Operatörü\bin\Debug\19-Büyük-Eşit-Operatörü.exe.config
+C:\Users\eneso\source\repos\19-Büyük-Eşit-Operatörü\bin\Debug\19-Büyük-Eşit-Operatörü.exe
+C:\Users\eneso\source\repos\19-Büyük-Eşit-Operatörü\bin\Debug\19-Büyük-Eşit-Operatörü.pdb
+C:\Users\eneso\source\repos\19-Büyük-Eşit-Operatörü\obj\Debug\19-Büyük-Eşit-Operatörü.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\19-Büyük-Eşit-Operatörü\obj\Debug\19-Büyük-Eşit-Operatörü.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\19-Büyük-Eşit-Operatörü\obj\Debug\19-Büyük-Eşit-Operatörü.exe
+C:\Users\eneso\source\repos\19-Büyük-Eşit-Operatörü\obj\Debug\19-Büyük-Eşit-Operatörü.pdb
