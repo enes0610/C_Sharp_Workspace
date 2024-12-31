@@ -1,0 +1,7 @@
+C:\Users\eneso\source\repos\86-Http-Request\bin\Debug\86-Http-Request.exe.config
+C:\Users\eneso\source\repos\86-Http-Request\bin\Debug\86-Http-Request.exe
+C:\Users\eneso\source\repos\86-Http-Request\bin\Debug\86-Http-Request.pdb
+C:\Users\eneso\source\repos\86-Http-Request\obj\Debug\86-Http-Request.csproj.AssemblyReference.cache
+C:\Users\eneso\source\repos\86-Http-Request\obj\Debug\86-Http-Request.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\86-Http-Request\obj\Debug\86-Http-Request.exe
+C:\Users\eneso\source\repos\86-Http-Request\obj\Debug\86-Http-Request.pdb
